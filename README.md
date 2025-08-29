@@ -18,3 +18,4 @@ python main.py
 ## License
 
 MIT
+# Patch 1759440663 - Fixes memory leak in background process
