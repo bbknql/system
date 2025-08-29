@@ -18,3 +18,4 @@ python main.py
 ## License
 
 MIT
+# Version: beta-1 - 2025-10-03
